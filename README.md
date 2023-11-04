@@ -1,4 +1,4 @@
-# Fitting Poisson  distribution
+# EX 02 Fitting Poisson  distribution
 # Aim : 
 
 To fit poisson distribution for the arrival of objects per minute from the feeder
@@ -75,7 +75,7 @@ else:
  
 
 # Output : 
-![image](https://github.com/kaviya2839/Poisson_distribution/assets/120553351/b452b5d4-1e6a-4ac9-87c7-21e2fff78390)
+![image](https://github.com/kaviya2839/Poisson_distribution/assets/120553351/e4831e21-dbb1-4b16-ad61-55db750522c8)
 
 # Results
 
